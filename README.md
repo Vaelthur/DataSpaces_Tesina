@@ -6,5 +6,6 @@ The aim of this tesina is to analyze a certain Breast Cancer Dataset (took from 
 
 Tesina is available here: https://docs.google.com/document/d/1CkyFGS5KMiWlv5zkR2MUJLqmtMwSW5zF5HJowZUE0w4/edit
 
-# TODO
-- Implement plots (until now just for KNN)
+# TODO - practical -
+- Implement plots
+- understand why some features are more relevant than others ( see https://bmccancer.biomedcentral.com/articles/10.1186/s12885-017-3877-1 )
