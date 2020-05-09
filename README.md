@@ -9,7 +9,7 @@ Rough Summary of Tesina is available here: https://docs.google.com/document/d/1C
 # TODO - practical -
 - Implement plots 
 - Dataset Analysis - Univariate & Multivariate
-- see sensitivity and specificity values - OK
+- see sensitivity and specificity values 
 - describe methods used in a better way and with explanation on how they work and comparison between results obtained
 
 # TODO - study better in order to be able to explain 
