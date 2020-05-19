@@ -9,9 +9,12 @@ Rough Summary of Tesina is available here: https://docs.google.com/document/d/1C
 # TODO - practical -
 - Implement pair plots - ok
 - Dataset Analysis - Univariate & Multivariate - ok
-- see sensitivity and specificity values 
+- Undersample training set 
+- Parameter tuning for algorithms
+- see sensitivity and specificity values
+- plot results of classification
 - describe methods used in a better way and with explanation on how they work and comparison between results obtained
-- Ask professor about dataset choice
+- Ask professor about dataset choice - changed to bigger dataset - ok
 
 # TODO - study better in order to be able to explain 
 - interpret pair plots
