@@ -2,14 +2,14 @@
 Tesina for DataSpaces course @ Polito
 
 # Aim of the Tesina
-The aim of this tesina is to analyze a certain Breast Cancer Dataset (took from here http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra) to determine whether a certain patient has or not breast cancer, based on some values and parameters collected from blood analysis. 
+The aim of this tesina is to analyze a certain Breast Cancer Dataset (took from here http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29) to determine whether a certain patient has banign or malignant cancer. 
 
 Rough Summary of Tesina is available here: https://docs.google.com/document/d/1CkyFGS5KMiWlv5zkR2MUJLqmtMwSW5zF5HJowZUE0w4/edit
 
 # TODO - practical -
 - Implement pair plots - ok
 - Dataset Analysis - Univariate & Multivariate - ok
-- Undersample training set 
+- Undersample training set - ok (better than oversample with kfold)
 - Parameter tuning for algorithms
 - see sensitivity and specificity values
 - plot results of classification
@@ -19,6 +19,7 @@ Rough Summary of Tesina is available here: https://docs.google.com/document/d/1C
 # TODO - study better in order to be able to explain 
 - interpret pair plots
 - Analysis methods - ok
+- KNN - ok
 - Logistic regression
 - Random Forest (ripasso)
 - SVM
