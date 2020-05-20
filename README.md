@@ -12,9 +12,10 @@ Rough Summary of Tesina is available here: https://docs.google.com/document/d/1C
 - Undersample training set - ok (better than oversample with kfold)
 - Parameter tuning for algorithms
 - see sensitivity and specificity values
-- plot results of classification
+- plot results of classification - ok
 - describe methods used in a better way and with explanation on how they work and comparison between results obtained
 - Ask professor about dataset choice - changed to bigger dataset - ok
+- Final rework & refactor with functions & stuff
 
 # TODO - study better in order to be able to explain 
 - interpret pair plots
