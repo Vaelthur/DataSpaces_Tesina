@@ -11,7 +11,6 @@ Rough Summary of Tesina is available here: https://docs.google.com/document/d/1C
 - Undersample training set - ok (better than oversample with kfold)
 - Parameter tuning for algorithms - ok
 - see sensitivity and specificity values - ok
-- plot decision tree
 - plot results of classification - ok
 - features description - ok
 - Ask professor about dataset choice - changed to bigger dataset - ok
@@ -21,4 +20,4 @@ Rough Summary of Tesina is available here: https://docs.google.com/document/d/1C
 - Analysis methods - ok
 - Logistic regression - ok 1st time
 - Random Forest - ok 1st time
-- SVM - 
+- SVM - ok 1st time
