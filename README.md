@@ -19,5 +19,5 @@ Rough Summary of Tesina is available here: https://docs.google.com/document/d/1C
 # TODO - study better in order to be able to explain 
 - Analysis methods - ok
 - Logistic regression - ok 
-- Random Forest - ok 1st time
+- Random Forest - ok 
 - SVM - ok 1st time
