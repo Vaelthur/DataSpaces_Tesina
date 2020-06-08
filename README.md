@@ -1,6 +1,9 @@
 # DataSpaces_Tesina
 Tesina for DataSpaces course @ Polito
 
+<b>Final Grade 30L/30</b>
+
+
 # Aim of the Tesina
 The aim of this tesina is to analyze a certain Breast Cancer Dataset (took from here http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29) to determine whether a certain patient has banign or malignant cancer. 
 
@@ -20,4 +23,4 @@ Rough Summary of Tesina is available here: https://docs.google.com/document/d/1C
 - Analysis methods - ok
 - Logistic regression - ok 
 - Random Forest - ok 
-- SVM - ok 1st time
+- SVM - ok
